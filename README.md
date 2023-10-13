@@ -8,17 +8,17 @@ This is just a simple program to make a list of name and see the amount of each 
 
 ### Installation documentation
 ---
-In a JupyterHub terminal, input the command 'git clone git@github.com:gcwyrostek/VersionControlLab.git'
+In a JupyterHub terminal, input the command `git clone https://github.com/gcwyrostek/VersionControlLab.git`
 
-This will download a folder called VersionControlLab to your terminal containing all the files from the repository.
+This will download a folder called `VersionControlLab` to your terminal containing all the files from the repository.
 
-This folder will contain 'RSVP Name Totals.ipynb' which contains the code and 'data.txt' which contains the list of names along with the license, code of conduct, and readme.
+This folder will contain `RSVP Name Totals.ipynb` which contains the code and `data.txt` which contains the list of names along with the license, code of conduct, and readme.
 
 We used the GNU GPL3 license for out project to ensure it remains open-source.
 
 ### Usage documentation
 ---
-When running the code in the 'RSVP Name Totals.ipynb' notebook, the user will be prompted to enter a name. Then, the program asks if the name should be added to the list or if the user wants to check how many times a name is present in the list. After, another prompt is sent to ask the user if they would like to continue entering and/or checking names.
+When running the code in the `RSVP Name Totals.ipynb` notebook, the user will be prompted to enter a name. Then, the program asks if the name should be added to the list or if the user wants to check how many times a name is present in the list. After, another prompt is sent to ask the user if they would like to continue entering and/or checking names.
 
 ### Improvements we're working on
 ---
