@@ -24,8 +24,8 @@ Currently there's no functionality to print the entire list out as well as remov
 
 ### How to contribute
 ---
-We decided to use GNU GPL3 in order to make sure our project, and projects that use this code, stay open-sourced.
+We decided to use GNU GPL3 in order to make sure our project, and projects that use this code, stay open-sourced. Also because it has no warranty, if things don't work right.
 
-If you decide you want to make improvements, please refer to our CODE-OF-CONDUCT.md
+If you decide you want to make improvements, please refer to our CODE-OF-CONDUCT.md. It's based on Contributor Covenant's Code of Conduct version 2.1, which covers a lot of general courtesies as well as things we'd prefer to avoid in a collaborative setting.
 
 Please let us know if you find any bugs or want to request a feature!
